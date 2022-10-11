@@ -1,7 +1,6 @@
 name: viz_tutorial
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - pip
   - jupyterlab
@@ -12,3 +11,4 @@ dependencies:
   - pyvista
   - plotly
   - streamlit
+  - dash
