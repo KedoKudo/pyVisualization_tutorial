@@ -12,3 +12,5 @@ dependencies:
   - plotly
   - streamlit
   - dash
+  - xarray
+  - datashader

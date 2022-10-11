@@ -20,3 +20,5 @@ The tutorials are presented as individual notebooks
 - 06_altair
 
 The tutorial environment can be setup using the provided environment file: `environment.yml`
+
+>Note: not all packages are explicitly specified in the environment file as we would like the solver to install the shared dependencies, which will help reduce the dependency issue that is plaguing a lot of Python libraries.
