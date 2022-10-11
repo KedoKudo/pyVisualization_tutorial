@@ -17,7 +17,6 @@ The tutorials are presented as individual notebooks
 - 03_plotly (&dash)
 - 04_holoviz (&bokeh, &pyvista, &panel)
 - 05_streamlit
-- 06_altair
 
 The tutorial environment can be setup using the provided environment file: `environment.yml`
 
