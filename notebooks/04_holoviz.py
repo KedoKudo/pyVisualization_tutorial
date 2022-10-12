@@ -44,9 +44,8 @@ class Sinewave(param.Parameterized):
 
 app = Sinewave().panel()
 pn.template.FastListTemplate(
-    site="iMars3D demo",
-    title="Neutron Image Reconstruction",
-    logo="HFIR_SNS_logo.png",
+    site="demo",
+    title="demo",
     header_background="#00A170",
     main=app,
     # theme="dark",
